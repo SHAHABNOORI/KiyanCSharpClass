@@ -81,9 +81,16 @@ namespace Step_4
             cars[2] = "FORD";
             cars[3] = "Pride";
 
-            foreach (var ghooli in cars)
+            //Readonly
+            //foreach (var ghooli in cars)
+            //{
+            //    Console.WriteLine(ghooli);
+            //}
+
+            for (int i = 0; i <= cars.Length - 1; i++)
             {
-                Console.WriteLine(ghooli);
+                cars[i] = cars[i] + " Test";
+                Console.WriteLine(cars[i]);
             }
         }
     }
