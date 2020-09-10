@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step-4", "Step-4\Step-4.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleForMethod", "SampleForMethod\SampleForMethod.csproj", "{9EB478C3-0E95-467C-960B-AC451BEA520C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step-5", "Step-5\Step-5.csproj", "{730F9131-9984-4332-8D73-2C3E8FBEDF02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step-5", "Step-5\Step-5.csproj", "{730F9131-9984-4332-8D73-2C3E8FBEDF02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step-6", "Step-6\Step-6.csproj", "{D917E1B4-C083-4F55-ABC0-16D3897BBA24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step-6", "Step-6\Step-6.csproj", "{D917E1B4-C083-4F55-ABC0-16D3897BBA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step-7", "Step-7\Step-7.csproj", "{B0C438CD-2382-4ECB-9BB5-AB4E11E39282}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D917E1B4-C083-4F55-ABC0-16D3897BBA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D917E1B4-C083-4F55-ABC0-16D3897BBA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D917E1B4-C083-4F55-ABC0-16D3897BBA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C438CD-2382-4ECB-9BB5-AB4E11E39282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C438CD-2382-4ECB-9BB5-AB4E11E39282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C438CD-2382-4ECB-9BB5-AB4E11E39282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C438CD-2382-4ECB-9BB5-AB4E11E39282}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
