@@ -29,15 +29,27 @@ namespace Step_7
             //    BirthDateYear = -1326
             //};
 
-            Person pOne = new Person("Shahab", "Noori Goodarzi", 30)
-            {
-                BirthDateYear = -1326
-            };
+            //Person pOne = new Person("Shahab", "Noori Goodarzi", 30)
+            //{
+            //    BirthDateYear = -1326
+            //};
 
             //pOne.AgeSetter(-21);
             //pOne.AgeSetter(21);
-            pOne.SayHello();
+            //pOne.SayHello();
             //Console.WriteLine($"Age is {pOne.AgeGetter()}");
+
+            Course courseOne = new Course()
+            {
+                StartDate = DateTime.Now
+                //StartDate = DateTime.Now.AddDays(30)
+                //StartDate = DateTime.Now.AddHours(10)
+                //StartDate = DateTime.Now.AddMinutes(50)
+            };
+
+            // Immutable 
+            courseOne.StartDate = courseOne.StartDate.AddHours(5);
+            Console.WriteLine(courseOne.StartDate);
         }
     }
 }
