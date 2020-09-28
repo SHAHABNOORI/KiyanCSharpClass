@@ -38,9 +38,6 @@ namespace KetabKhooneh
             memberService.Register(memberOne);
             employeeService.Register(employee);
             memberService.RentBook(memberOne, book);
-
-
-
         }
     }
 }
