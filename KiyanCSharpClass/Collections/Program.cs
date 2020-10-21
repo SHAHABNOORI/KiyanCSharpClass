@@ -9,28 +9,30 @@ namespace Collections
         static void Main(string[] args)
         {
             List<int> numbers = new List<int>();
+            
             numbers.Add(1);
             numbers.Add(3);
             numbers.Add(5);
+            numbers.Remove(numbers[0]);
+            Console.WriteLine(numbers[0]);
+            //foreach (var number in numbers)
+            //{
+            //    Console.WriteLine(number);
+            //}
 
-            foreach (var number in numbers)
-            {
-                Console.WriteLine(number);
-            }
+            //List<string> cities = new List<string>();
+            //cities.Add("Tehran");
+            //cities.Add("Karaj");
 
-            List<string> cities = new List<string>();
-            cities.Add("Tehran");
-            cities.Add("Karaj");
+            //foreach (var city in cities)
+            //{
+            //    Console.WriteLine(city);
+            //}
 
-            foreach (var city in cities)
-            {
-                Console.WriteLine(city);
-            }
-
-            var miveha = new List<Miveh>(){
-                new Miveh(){Title="Siib"},
-                new Miveh(){Title="Golabi"}            
-            };
+            //var miveha = new List<Miveh>(){
+            //    new Miveh(){Title="Siib"},
+            //    new Miveh(){Title="Golabi"}            
+            //};
 
             //List<Miveh> miveha = new List<Miveh>();
 
