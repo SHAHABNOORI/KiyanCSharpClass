@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedDictionary", "SortedD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedListSample", "SortedList\SortedListSample.csproj", "{3124AB73-6067-4EFD-98B6-23DE3D7FA5D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSample", "GenericSample\GenericSample.csproj", "{96B274C4-D2DD-47FF-B63B-15B37E36AFFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSample", "GenericSample\GenericSample.csproj", "{96B274C4-D2DD-47FF-B63B-15B37E36AFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateSample", "DelegateSample\DelegateSample.csproj", "{252B757C-85AA-4112-94B0-137A952A31BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{96B274C4-D2DD-47FF-B63B-15B37E36AFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96B274C4-D2DD-47FF-B63B-15B37E36AFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96B274C4-D2DD-47FF-B63B-15B37E36AFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252B757C-85AA-4112-94B0-137A952A31BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252B757C-85AA-4112-94B0-137A952A31BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252B757C-85AA-4112-94B0-137A952A31BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252B757C-85AA-4112-94B0-137A952A31BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
