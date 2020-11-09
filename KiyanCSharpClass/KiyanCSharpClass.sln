@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedListSample", "SortedL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSample", "GenericSample\GenericSample.csproj", "{96B274C4-D2DD-47FF-B63B-15B37E36AFFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateSample", "DelegateSample\DelegateSample.csproj", "{252B757C-85AA-4112-94B0-137A952A31BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateSample", "DelegateSample\DelegateSample.csproj", "{252B757C-85AA-4112-94B0-137A952A31BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionSample", "ExceptionSample\ExceptionSample.csproj", "{86885223-2571-4170-8346-8DC8BA76D6EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{252B757C-85AA-4112-94B0-137A952A31BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{252B757C-85AA-4112-94B0-137A952A31BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{252B757C-85AA-4112-94B0-137A952A31BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86885223-2571-4170-8346-8DC8BA76D6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86885223-2571-4170-8346-8DC8BA76D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86885223-2571-4170-8346-8DC8BA76D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86885223-2571-4170-8346-8DC8BA76D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
