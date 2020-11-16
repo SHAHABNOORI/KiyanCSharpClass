@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSample", "GenericSam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateSample", "DelegateSample\DelegateSample.csproj", "{252B757C-85AA-4112-94B0-137A952A31BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionSample", "ExceptionSample\ExceptionSample.csproj", "{86885223-2571-4170-8346-8DC8BA76D6EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionSample", "ExceptionSample\ExceptionSample.csproj", "{86885223-2571-4170-8346-8DC8BA76D6EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamrinInterface", "TamrinInterface\TamrinInterface.csproj", "{935B37E8-A028-4D16-A13D-A8410C8C0F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{86885223-2571-4170-8346-8DC8BA76D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86885223-2571-4170-8346-8DC8BA76D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86885223-2571-4170-8346-8DC8BA76D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
