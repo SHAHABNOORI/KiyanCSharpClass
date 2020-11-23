@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateSample", "DelegateS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionSample", "ExceptionSample\ExceptionSample.csproj", "{86885223-2571-4170-8346-8DC8BA76D6EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamrinInterface", "TamrinInterface\TamrinInterface.csproj", "{935B37E8-A028-4D16-A13D-A8410C8C0F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TamrinInterface", "TamrinInterface\TamrinInterface.csproj", "{935B37E8-A028-4D16-A13D-A8410C8C0F2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeArraysSample", "..\..\BagherPoorCSharpClass\BagherPoorCSharpClass\MergeArraysSample\MergeArraysSample.csproj", "{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{935B37E8-A028-4D16-A13D-A8410C8C0F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
