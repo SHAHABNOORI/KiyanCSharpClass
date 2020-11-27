@@ -45,6 +45,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TamrinInterface", "TamrinIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeArraysSample", "..\..\BagherPoorCSharpClass\BagherPoorCSharpClass\MergeArraysSample\MergeArraysSample.csproj", "{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EshterakSample", "EshterakSample\EshterakSample.csproj", "{37840ED1-0E2A-485A-A04A-C87AF4D1BDE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EshterakWithListSample", "EshterakWithListSample\EshterakWithListSample.csproj", "{B7B2AF5F-5F02-4B20-8901-A145E7ABE55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindInTwoArraySample", "FindInTwoArraySample\FindInTwoArraySample.csproj", "{2F06113A-9FA5-4B7C-8D30-75BB891522D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +141,18 @@ Global
 		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B6B2C9-3EFD-4E66-9BC0-C09306A7CB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37840ED1-0E2A-485A-A04A-C87AF4D1BDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37840ED1-0E2A-485A-A04A-C87AF4D1BDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37840ED1-0E2A-485A-A04A-C87AF4D1BDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37840ED1-0E2A-485A-A04A-C87AF4D1BDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B2AF5F-5F02-4B20-8901-A145E7ABE55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B2AF5F-5F02-4B20-8901-A145E7ABE55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B2AF5F-5F02-4B20-8901-A145E7ABE55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B2AF5F-5F02-4B20-8901-A145E7ABE55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F06113A-9FA5-4B7C-8D30-75BB891522D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F06113A-9FA5-4B7C-8D30-75BB891522D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F06113A-9FA5-4B7C-8D30-75BB891522D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F06113A-9FA5-4B7C-8D30-75BB891522D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
